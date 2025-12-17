@@ -28,7 +28,7 @@ hallucinations or external knowledge.
 🔗 **Live Application**
 
 ```text
-https://your-app-name.streamlit.app
+https://pdf-assistent.streamlit.app/
 ```
 
 ---
@@ -82,8 +82,7 @@ Semantic Retrieval
 LLM Answer Generation
      ↓
 Chat UI with Citations & Scores
-
-
+---
 
 ---
 
