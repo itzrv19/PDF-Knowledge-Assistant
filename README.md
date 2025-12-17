@@ -109,7 +109,10 @@ Chat UI with Citations & Scores
 
 ## 📂 Project Structure
 ```
-rag-pdf-app/
+PDF-Knowledge-Assistant/
+assets/
+├── question_demo.png
+└── conversation_demo.png
 │
 ├── app.py                # Streamlit application
 ├── requirements.txt      # Python dependencies
