@@ -66,7 +66,7 @@ https://pdf-assistent.streamlit.app/
 
 ## 🧩 Architecture Overview
 
-```text
+
 PDF Document
      ↓
 Page-wise Parsing
@@ -82,9 +82,9 @@ Semantic Retrieval
 LLM Answer Generation
      ↓
 Chat UI with Citations & Scores
----
 
----
+
+
 
 ## 🛠️ Tech Stack
 
@@ -108,7 +108,7 @@ Chat UI with Citations & Scores
 ---
 
 ## 📂 Project Structure
-
+```
 rag-pdf-app/
 │
 ├── app.py                # Streamlit application
@@ -123,8 +123,8 @@ rag-pdf-app/
 │   └── qa.py             # Answer generation using LLM
 
 
+```
 
----
 
 ## 🧪 Example Use Cases
 
@@ -155,7 +155,6 @@ not a prompt-only chatbot or tutorial example.
 - Export chat history as PDF
 - Support for multiple PDFs
 - Highlighting answer sentences in source text
-- Deployment on Streamlit Cloud or Hugging Face Spaces
 
 ---
 
